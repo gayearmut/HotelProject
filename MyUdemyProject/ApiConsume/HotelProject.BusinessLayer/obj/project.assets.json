@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gaye\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
       "projectName": "HotelProject.BusinessLayer",
-      "projectPath": "C:\\Users\\Gaye\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
+      "projectPath": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\Gaye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gaye\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\obj\\",
+      "outputPath": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gaye\\AppData\\Roaming\\NuGet\\NuGet.Config",

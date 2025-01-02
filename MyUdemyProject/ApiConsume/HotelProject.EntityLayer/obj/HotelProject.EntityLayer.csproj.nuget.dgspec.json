@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gaye\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {}
+    "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gaye\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
+    "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gaye\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
         "projectName": "HotelProject.EntityLayer",
-        "projectPath": "C:\\Users\\Gaye\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
+        "projectPath": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
         "packagesPath": "C:\\Users\\Gaye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gaye\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\ApiConsume\\HotelProject.EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gaye\\AppData\\Roaming\\NuGet\\NuGet.Config",
