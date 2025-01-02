@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6KAoD/1lP0rWlL2RKrUiO2O2KjHlyleUtnLAfXF48gl+nUXdjnLDG6FgD4IHzFvQq/tWlQnHmz8tiCy0UiMIjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gaye\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gaye\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Gaye\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Gaye\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Gaye\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Gaye\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Gaye\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
