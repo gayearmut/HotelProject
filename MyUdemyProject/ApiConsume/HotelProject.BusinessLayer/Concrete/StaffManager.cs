@@ -1,45 +1,42 @@
 ﻿using HotelProject.BusinessLayer.Abstract;
+using HotelProject.DataAccessLayer.Abstract;
 using HotelProject.EntityLayer.Concrete;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HotelProject.BusinessLayer.Concrete
 {
-	public class StaffManager : IStaffSrevice
+	public class StaffManager : IStaffService
 	{
-		private readonly IStaffSrevice staffSrevice;
+		private readonly IStaffDal _staffDal;
 
-		public StaffManager(IStaffSrevice staffSrevice)
+		public StaffManager(IStaffDal staffDal)
 		{
-			this.staffSrevice = staffSrevice;
+			_staffDal = staffDal;
 		}
 
 		public void TDelete(Staff t)
 		{
-			staffSrevice.TDelete(t);
+			_staffDal.Delete(t);
 		}
 
 		public Staff TGetByID(int id)
 		{
-			return staffSrevice.TGetByID(id);
+			return _staffDal.GetByID(id);
 		}
 
 		public List<Staff> TGetList()
 		{
-			return staffSrevice.TGetList();
+			return _staffDal.GetList();
 		}
 
 		public void TInsert(Staff t)
 		{
-			staffSrevice.TInsert(t);
+			_staffDal.Insert(t);
 		}
 
 		public void TUpdate(Staff t)
 		{
-			staffSrevice.TUpdate(t);
+			_staffDal.Update(t);
 		}
 	}
 }

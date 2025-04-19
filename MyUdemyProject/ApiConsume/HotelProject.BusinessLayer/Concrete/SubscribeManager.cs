@@ -10,30 +10,30 @@ namespace HotelProject.BusinessLayer.Concrete
 {
 	public class SubscribeManager : ISubscribeService
 	{
-		private readonly ISubscribeService subscribeService;
+		private readonly ISubscribeService _subscribeService;
 		public void TDelete(Subscribe t)
 		{
-			subscribeService.TDelete(t);
+			_subscribeService.TDelete(t);
 		}
 
 		public Subscribe TGetByID(int id)
 		{
-			return subscribeService.TGetByID(id);
+			return _subscribeService.TGetByID(id);
 		}
 
 		public List<Subscribe> TGetList()
 		{
-			return subscribeService.TGetList();
+			return _subscribeService.TGetList();
 		}
 
 		public void TInsert(Subscribe t)
 		{
-			subscribeService.TInsert(t);
+			_subscribeService.TInsert(t);
 		}
 
 		public void TUpdate(Subscribe t)
 		{
-			subscribeService.TUpdate(t);
+			_subscribeService.TUpdate(t);
 		}
 	}
 }

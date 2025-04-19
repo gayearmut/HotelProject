@@ -13,8 +13,6 @@ namespace HotelProject.DataAccessLayer.EntityFramework
 	public class EfStaffDal:GenericRepository<Staff>,IStaffDal
 	{
         public EfStaffDal(Context context):base(context) { }
-        {
-            
-        }
+       
     }
 }

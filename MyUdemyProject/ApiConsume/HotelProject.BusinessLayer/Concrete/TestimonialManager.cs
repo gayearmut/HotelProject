@@ -10,30 +10,30 @@ namespace HotelProject.BusinessLayer.Concrete
 {
 	public class TestimonialManager : ITestimonialService
 	{
-		private readonly ITestimonialService testimonialService;
+		private readonly ITestimonialService _testimonialService;
 		public void TDelete(Testimonial t)
 		{
-			testimonialService.TDelete(t);
+			_testimonialService.TDelete(t);
 		}
 
 		public Testimonial TGetByID(int id)
 		{
-			return testimonialService.TGetByID(id);
+			return _testimonialService.TGetByID(id);
 		}
 
 		public List<Testimonial> TGetList()
 		{
-			return testimonialService.TGetList();
+			return _testimonialService.TGetList();
 		}
 
 		public void TInsert(Testimonial t)
 		{
-			testimonialService.TInsert(t);
+			_testimonialService.TInsert(t);
 		}
 
 		public void TUpdate(Testimonial t)
 		{
-			testimonialService.TUpdate(t);
+			_testimonialService.TUpdate(t);
 		}
 	}
 }
