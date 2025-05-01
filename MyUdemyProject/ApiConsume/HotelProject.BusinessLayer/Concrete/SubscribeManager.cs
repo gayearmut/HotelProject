@@ -1,39 +1,42 @@
 ﻿using HotelProject.BusinessLayer.Abstract;
+using HotelProject.DataAccessLayer.Abstract;
 using HotelProject.EntityLayer.Concrete;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HotelProject.BusinessLayer.Concrete
 {
 	public class SubscribeManager : ISubscribeService
 	{
-		private readonly ISubscribeService _subscribeService;
+		private readonly ISubscribeDal _subscribeDal;
+
+		public SubscribeManager(ISubscribeDal subscribeDal)
+		{
+			_subscribeDal = subscribeDal;
+		}
+
 		public void TDelete(Subscribe t)
 		{
-			_subscribeService.TDelete(t);
+			_subscribeDal.Delete(t);
 		}
 
 		public Subscribe TGetByID(int id)
 		{
-			return _subscribeService.TGetByID(id);
+			return _subscribeDal.GetByID(id);
 		}
 
 		public List<Subscribe> TGetList()
 		{
-			return _subscribeService.TGetList();
+			return _subscribeDal.GetList();
 		}
 
 		public void TInsert(Subscribe t)
 		{
-			_subscribeService.TInsert(t);
+			_subscribeDal.Insert(t);
 		}
 
 		public void TUpdate(Subscribe t)
 		{
-			_subscribeService.TUpdate(t);
+			_subscribeDal.Update(t);
 		}
 	}
 }
