@@ -16,7 +16,7 @@ namespace HotelProject.WebUI.Controllers
         public async Task<IActionResult> Index()
         {
             var client = _httpClientFactory.CreateClient(); // 1.istemci oluştur
-            var responseMessage = await client.GetAsync("http://localhost:3523/api/Staff"); //2.İligili adrese istekte bulun
+            var responseMessage = await client.GetAsync("http://localhost:5143/api/Staff"); //2.İligili adrese istekte bulun
             if (responseMessage.IsSuccessStatusCode) //3.Adresten başarılı br response dönerse
             {
                 var jsonData = await responseMessage.Content.ReadAsStringAsync();  //Dönen cevabı jsonData isimli değişkene ata
