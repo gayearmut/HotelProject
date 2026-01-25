@@ -43,10 +43,10 @@ namespace HotelProject.WebUI.Controllers
             }
             return View();
         }
-        public async Task<IActionResult> DeleteStaff(int id)
+        public async Task<IActionResult> DeleteStaff(int id) //id'ye ait olan personeli sil
         {
             var client = _httpClientFactory.CreateClient();
-            var responseMessage = await client.DeleteAsync($"http://localhost:3523/api/Staff/{id}");
+            var responseMessage = await client.DeleteAsync($"http://localhost:5143/api/Staff/{id}");
             if (responseMessage.IsSuccessStatusCode)
             {
                 return RedirectToAction("Index");
