@@ -9,9 +9,10 @@ C:\Users\Gaye\Documents\GitHub\HotelProject\MyUdemyProject\ApiConsume\HotelProje
 C:\Users\Gaye\Documents\GitHub\HotelProject\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.AssemblyInfoInputs.cache
 C:\Users\Gaye\Documents\GitHub\HotelProject\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.AssemblyInfo.cs
 C:\Users\Gaye\Documents\GitHub\HotelProject\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.csproj.CoreCompileInputs.cache
-C:\Users\Gaye\Documents\GitHub\HotelProject\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.csproj.CopyComplete
 C:\Users\Gaye\Documents\GitHub\HotelProject\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.dll
 C:\Users\Gaye\Documents\GitHub\HotelProject\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\refint\HotelProject.DataAccessLayer.dll
 C:\Users\Gaye\Documents\GitHub\HotelProject\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.pdb
 C:\Users\Gaye\Documents\GitHub\HotelProject\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.genruntimeconfig.cache
 C:\Users\Gaye\Documents\GitHub\HotelProject\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\ref\HotelProject.DataAccessLayer.dll
+C:\Users\Gaye\Documents\GitHub\HotelProject\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.sourcelink.json
+C:\Users\Gaye\Documents\GitHub\HotelProject\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelPro.61274476.Up2Date
