@@ -276,3 +276,5 @@ C:\Users\Gaye\Documents\GitHub\HotelProject\MyUdemyProject\Frontend\HotelProject
 C:\Users\Gaye\Documents\GitHub\HotelProject\MyUdemyProject\Frontend\HotelProject.WebUI\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
 C:\Users\Gaye\Documents\GitHub\HotelProject\MyUdemyProject\Frontend\HotelProject.WebUI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\Gaye\Documents\GitHub\HotelProject\MyUdemyProject\Frontend\HotelProject.WebUI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Gaye\Documents\GitHub\HotelProject\MyUdemyProject\Frontend\HotelProject.WebUI\bin\Debug\net6.0\HotelProject.DataAccessLayer.dll
+C:\Users\Gaye\Documents\GitHub\HotelProject\MyUdemyProject\Frontend\HotelProject.WebUI\bin\Debug\net6.0\HotelProject.DataAccessLayer.pdb

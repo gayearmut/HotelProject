@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HotelProject.DtoLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9288f6af906717918cdb33dc6fc5e8a50c74156")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+777b7b36c7d93e467739a6aa895cc8551d43e1ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("HotelProject.DtoLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HotelProject.DtoLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
