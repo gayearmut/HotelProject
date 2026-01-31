@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\gaye\\documents\\github\\hotelproject\\myudemyproject\\frontend\\hotelproject.webui\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\gaye\\documents\\github\\hotelproject\\myudemyproject\\frontend\\hotelproject.webui\\dtos\\registerdto\\createnewuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\dtos\\registerdto\\createnewuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C8EB564-805C-4A66-8FA1-BB7094E8612C}|ToDoList{8C8EB564-805C-4A66-8FA1-BB7094E8612C}|C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Ad\u0131mlar.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8C8EB564-805C-4A66-8FA1-BB7094E8612C}|ToDoList{8C8EB564-805C-4A66-8FA1-BB7094E8612C}|solutionrelative:Ad\u0131mlar.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +62,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateNewUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Dtos\\RegisterDto\\CreateNewUserDto.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Dtos\\RegisterDto\\CreateNewUserDto.cs",
+              "ToolTip": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Dtos\\RegisterDto\\CreateNewUserDto.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Dtos\\RegisterDto\\CreateNewUserDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T13:27:43.827Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T13:20:25.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Ad\u0131mlar.txt",
               "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Ad\u0131mlar.txt",
               "RelativeDocumentMoniker": "Ad\u0131mlar.txt",
@@ -62,12 +95,11 @@
               "RelativeToolTip": "Ad\u0131mlar.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-01-31T13:01:17.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T13:01:17.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "20260131125944_mig_adding_identity.cs",
               "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer\\Migrations\\20260131125944_mig_adding_identity.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DataAccessLayer\\Migrations\\20260131125944_mig_adding_identity.cs",
@@ -79,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer\\Migrations\\ContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DataAccessLayer\\Migrations\\ContextModelSnapshot.cs",
@@ -91,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "20260131125428_mig_add_identity.cs",
               "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer\\Migrations\\20260131125428_mig_add_identity.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DataAccessLayer\\Migrations\\20260131125428_mig_add_identity.cs",
@@ -103,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Context.cs",
               "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer\\Concrete\\Context.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DataAccessLayer\\Concrete\\Context.cs",
@@ -115,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "AppRole.cs",
               "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\ApiConsume\\HotelProject.EntityLayer\\Concrete\\AppRole.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProject.EntityLayer\\Concrete\\AppRole.cs",
@@ -127,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\ApiConsume\\HotelProject.EntityLayer\\Concrete\\AppUser.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProject.EntityLayer\\Concrete\\AppUser.cs",
