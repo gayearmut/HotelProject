@@ -2,12 +2,11 @@
 
 namespace HotelProject.WebUI.ViewComponents.Default
 {
-    public class _SliderPartial:ViewComponent 
-    {
-        public IViewComponentResult Invoke() //Default method name is Invoke
+    public class _ServicePartial:ViewComponent
+    { 
+        public IViewComponentResult Invoke()
         {
             return View();
         }
     }
-    
 }
