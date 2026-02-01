@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\gaye\\documents\\github\\hotelproject\\myudemyproject\\frontend\\hotelproject.webui\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\gaye\\documents\\github\\hotelproject\\myudemyproject\\frontend\\hotelproject.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5116FE0-BC00-4E99-A23D-B043C8C1CBE5}|ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj|c:\\users\\gaye\\documents\\github\\hotelproject\\myudemyproject\\apiconsume\\hotelproject.entitylayer\\concrete\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5116FE0-BC00-4E99-A23D-B043C8C1CBE5}|ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj|solutionrelative:apiconsume\\hotelproject.entitylayer\\concrete\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\gaye\\documents\\github\\hotelproject\\myudemyproject\\frontend\\hotelproject.webui\\views\\shared\\components\\_sliderpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\views\\shared\\components\\_sliderpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\gaye\\documents\\github\\hotelproject\\myudemyproject\\frontend\\hotelproject.webui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\gaye\\documents\\github\\hotelproject\\myudemyproject\\frontend\\hotelproject.webui\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\gaye\\documents\\github\\hotelproject\\myudemyproject\\frontend\\hotelproject.webui\\mapping\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\mapping\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\gaye\\documents\\github\\hotelproject\\myudemyproject\\frontend\\hotelproject.webui\\dtos\\logindto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\dtos\\logindto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\gaye\\documents\\github\\hotelproject\\myudemyproject\\frontend\\hotelproject.webui\\viewcomponents\\default\\_sliderpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\viewcomponents\\default\\_sliderpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +22,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-01T13:16:11.101Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared\\Components\\_SliderPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Views\\Shared\\Components\\_SliderPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared\\Components\\_SliderPartial\\Default.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Views\\Shared\\Components\\_SliderPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-01T14:23:44.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_SliderPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\ViewComponents\\Default\\_SliderPartial.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\ViewComponents\\Default\\_SliderPartial.cs",
+              "ToolTip": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\ViewComponents\\Default\\_SliderPartial.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\ViewComponents\\Default\\_SliderPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T14:22:42.622Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -47,84 +75,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\ApiConsume\\HotelProject.EntityLayer\\Concrete\\AppUser.cs",
-              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.EntityLayer\\Concrete\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\ApiConsume\\HotelProject.EntityLayer\\Concrete\\AppUser.cs",
-              "RelativeToolTip": "ApiConsume\\HotelProject.EntityLayer\\Concrete\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T14:20:56.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T14:15:08.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T14:14:19.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AutoMapperConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Mapping\\AutoMapperConfig.cs",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Mapping\\AutoMapperConfig.cs",
-              "ToolTip": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Mapping\\AutoMapperConfig.cs",
-              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Mapping\\AutoMapperConfig.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T14:11:30.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Dtos\\LoginDto\\LoginUserDto.cs",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Dtos\\LoginDto\\LoginUserDto.cs",
-              "ToolTip": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Dtos\\LoginDto\\LoginUserDto.cs",
-              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Dtos\\LoginDto\\LoginUserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T14:10:15.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T14:08:00.969Z",
-              "EditorCaption": ""
             }
           ]
         }
