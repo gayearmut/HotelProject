@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\gaye\\documents\\github\\hotelproject\\myudemyproject\\frontend\\hotelproject.webui\\views\\shared\\components\\_scriptspartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\views\\shared\\components\\_scriptspartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\gaye\\documents\\github\\hotelproject\\myudemyproject\\frontend\\hotelproject.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\gaye\\documents\\github\\hotelproject\\myudemyproject\\frontend\\hotelproject.webui\\viewcomponents\\default\\_aboutuspartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\viewcomponents\\default\\_aboutuspartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\gaye\\documents\\github\\hotelproject\\myudemyproject\\frontend\\hotelproject.webui\\views\\shared\\components\\_aboutuspartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE58CD81-5F94-484A-9125-DFC21A6C8625}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\views\\shared\\components\\_aboutuspartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,28 +27,42 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared\\Components\\_ScriptsPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Views\\Shared\\Components\\_ScriptsPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared\\Components\\_ScriptsPartial\\Default.cshtml",
-              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Views\\Shared\\Components\\_ScriptsPartial\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-01T17:43:49.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Default\\Index.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Views\\Default\\Index.cshtml",
               "ToolTip": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Default\\Index.cshtml",
               "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-01T17:01:34.708Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_AboutUsPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\ViewComponents\\Default\\_AboutUsPartial.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\ViewComponents\\Default\\_AboutUsPartial.cs",
+              "ToolTip": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\ViewComponents\\Default\\_AboutUsPartial.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\ViewComponents\\Default\\_AboutUsPartial.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T08:32:51.321Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared\\Components\\_AboutUsPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Views\\Shared\\Components\\_AboutUsPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Gaye\\Documents\\GitHub\\HotelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared\\Components\\_AboutUsPartial\\Default.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Views\\Shared\\Components\\_AboutUsPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T09:56:27.398Z",
               "EditorCaption": ""
             },
             {
