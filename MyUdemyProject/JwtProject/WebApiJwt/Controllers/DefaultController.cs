@@ -38,6 +38,7 @@ namespace WebApiJwt.Controllers
             return Ok("Hoşgeldiniz");
         }
 
+        [Authorize(AuthenticationSchemes = "Bearer")]
         [Authorize(Roles = "Admin,Visitor")]
         [HttpGet("[action]")]
         public IActionResult Test3()
